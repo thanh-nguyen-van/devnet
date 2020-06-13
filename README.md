@@ -1,1 +1,1 @@
-DEVNET 
+DEVNET v1.0 
